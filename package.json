@@ -12,8 +12,7 @@
     "mongoose",
     "demo"
   ],
-  "author": "Jennifer Bland",
-  "license": "ISC",
+  "author": "Megshi Thakur",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
