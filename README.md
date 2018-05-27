@@ -5,3 +5,9 @@ I am creating a very simple Node application, that will allow users to input dat
 A code is written which creates the application by calling express, the port defined is 3000. 
 
 Technologies used: HTML, Node.js, Express.js, JSON, Restful APIs, CRUD methodology, MongoDB.
+
+![My picture](https://github.com/megshithakur1/Node.js-Demo-App/blob/master/Screenshots/1.png)
+
+![My picture](https://github.com/megshithakur1/Node.js-Demo-App/blob/master/Screenshots/2.png)
+
+![My picture](https://github.com/megshithakur1/Node.js-Demo-App/blob/master/Screenshots/3.png)
