@@ -6,6 +6,9 @@ A code is written which creates the application by calling express, the port def
 
 Technologies used: HTML, Node.js, Express.js, JSON, Restful APIs, CRUD methodology, MongoDB.
 
+
+Below are the screenshots of the web-app:
+
 ![My picture](https://github.com/megshithakur1/Node.js-Demo-App/blob/master/Screenshots/1.png)
 
 ![My picture](https://github.com/megshithakur1/Node.js-Demo-App/blob/master/Screenshots/2.png)
