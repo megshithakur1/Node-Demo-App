@@ -2,7 +2,7 @@
 
 A MEAN stack web-application is created using Angular.js, NodeJS & Express to save data to MongoDB Database. 
 I have created a very simple Node application, that will allow users to input data that they want to store in a MongoDB database.<br /> 
-It will also show all items that have been entered into the database.
+It will also show all items that have been entered into the database.<br />
 A code is written which creates the application by calling express, the port defined is 3000.
 http://localhost:3000
 
