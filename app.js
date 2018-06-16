@@ -25,7 +25,7 @@ app.post("/addname", (req, res) => {
             res.send("Name is saved to database");
         })
         .catch(err => {
-            res.status(400).send("Unable to save the data to database.");
+            res.status(400).send("Unable to save the data to database");
         });
 });
 
