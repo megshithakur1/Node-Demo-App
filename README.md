@@ -15,3 +15,6 @@ Below are the screenshots of the web-app:
 ![My picture](https://github.com/megshithakur1/Node.js-Demo-App/blob/master/Screenshots/2.png)
 
 ![My picture](https://github.com/megshithakur1/Node.js-Demo-App/blob/master/Screenshots/3.png)
+
+
+For any queries contact: [Megshi Thakur](https://www.linkedin.com/in/megshithakur/) 
