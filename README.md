@@ -8,7 +8,7 @@ http://localhost:3000
 
 Technologies used: HTML, Node.js, Express.js, JSON, Angular.js, Restful APIs, CRUD methodology, MongoDB.
 
-Below are the screenshots of the web-app
+Below are the screenshots of the web-app:
 
 ![My picture](https://github.com/megshithakur1/Node.js-Demo-App/blob/master/Screenshots/1.png)
 
